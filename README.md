@@ -1,6 +1,6 @@
 ## 不是苦艾👋不精通IoT👋不擅长DIP👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolara)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolara&show_icons=true&theme=tokyonight)
 
 <!--
 **zolara/zolara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
