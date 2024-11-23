@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolara&show_icons=true&theme=tokyonight)
 
-## BlueArchive_TcbHistoryTool stars history
+## BlueArchive_TcbHistoryTool Stars History
 <a href="https://star-history.com/#zolara/bluearchive_TcbHistoryTool&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zolara/bluearchive_TcbHistoryTool&type=Date&theme=dark" />
