@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolara&show_icons=true&theme=tokyonight)
 
+## BlueArchive_TcbHistoryTool stars history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zolara/bluearchive_TcbHistoryTool&type=Date)](https://star-history.com/#zolara/bluearchive_TcbHistoryTool&Date)
 <!--
 **zolara/zolara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
